@@ -1,8 +1,8 @@
-def one():
-    print('One')
-
-def two():
-    print('Two')
-
 def three():
     print('Three')
+
+def four():
+    print('Four')
+
+def five():
+    print('Five')
